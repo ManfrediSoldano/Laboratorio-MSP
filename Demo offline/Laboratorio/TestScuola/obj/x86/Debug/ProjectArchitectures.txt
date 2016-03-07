@@ -1,0 +1,1 @@
+c:\users\t-masold\documents\visual studio 2015\Projects\TestScuola\TestScuola\TestScuola.csproj;x86
